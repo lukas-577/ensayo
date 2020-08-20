@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class Utilitaria {
 	
-	private Utilitaria() {
+	private Utilitaria() { //constructor vacio para que no se pueda hacer una instancia 
 		
 	}
 	
